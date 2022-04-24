@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Network &#8211; Clint Good Architects, PC</title>
+	<atom:link href="https://www.clintgood.com/?feed=rss2&#038;cat=8" rel="self" type="application/rss+xml" />
+	<link>https://www.clintgood.com</link>
+	<description>Green Architecture</description>
+	<lastBuildDate>Thu, 20 Oct 2011 16:40:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<item>
+		<title>Allies</title>
+		<link>https://www.clintgood.com/?p=33</link>
+				<pubDate>Sat, 20 Aug 2011 19:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Network]]></category>
+
+		<guid isPermaLink="false">https://www.clintgood.com/?p=33</guid>
+				<description><![CDATA[<p>CGA is affiliated with Leaders world-wide, responsible for a wide array of industries and disciplines, from science to telecom, hospitality to education. CGA Allies share a common passion for working in environments that amplify their natural ability to create.</p>
+<p><span id="more-33"></span></p>
+<p>CGA Allies present a group of professional with the highest of creative standards and rigorous attention to both their clients’ needs and the detail of complex projects.</p>
+]]></description>
+								<content:encoded><![CDATA[<p>CGA is affiliated with Leaders world-wide, responsible for a wide array of industries and disciplines, from science to telecom, hospitality to education. CGA Allies share a common passion for working in environments that amplify their natural ability to create.</p>
+<p><span id="more-33"></span></p>
+<p>CGA Allies present a group of professional with the highest of creative standards and rigorous attention to both their clients’ needs and the detail of complex projects.</p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>
